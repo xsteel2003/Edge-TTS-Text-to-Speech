@@ -15,8 +15,8 @@ This Gradio app uses Microsoft Edge's Text-to-Speech (TTS) service to allow user
 Ensure you have Python 3.8 or newer installed. Clone this repository and install the required dependencies with the following commands:
 
 ```bash
-git clone https://github.com/your-username/edge-tts-tts.git
-cd edge-tts-tts
+git clone https://github.com/xsteel2003/Edge-TTS-Text-to-Speech.git
+cd Edge-TTS-Text-to-Speech
 pip install -r requirements.txt
 ```
 
